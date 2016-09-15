@@ -1,0 +1,507 @@
+# Translation of Sampression Lite in French (France)
+# This file is distributed under the same license as the Sampression Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-11-13 08:57:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/1.0-alpha-1100\n"
+"Project-Id-Version: Sampression Lite\n"
+
+#. Theme Name of the plugin/theme
+msgid "Sampression Lite"
+msgstr "Sampression Lite"
+
+#: single.php:47
+msgid "%3$s <time class=\"\" datetime=\"2011-09-28\"><span class=\"ico\">&nbsp;</span>%2$s</time> "
+msgstr "%3$s <time class=\"\" datetime=\"2011-09-28\"><span class=\"ico\">&nbsp;</span>%2$s</time> "
+
+#: single.php:62
+msgid "<span class=\"ico\">&nbsp;</span> %s"
+msgstr "<span class=\"ico\">&nbsp;</span> %s"
+
+#: tag.php:17
+msgid "Tag Archives: %s"
+msgstr "Archives pour l&rsquo;étiquette %s"
+
+#: single.php:19
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Suivant <span class=\"meta-nav\">&rarr;</span>"
+
+#: single.php:18
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr "<span class=\"meta-nav\">&larr;</span> Précédent"
+
+#: sidebar.php:43
+msgid "Recent Comments"
+msgstr "Commentaires récents"
+
+#: sidebar.php:19
+msgid "Most Popular Posts"
+msgstr "Commentaires les plus populaires"
+
+#: sidebar-right.php:19
+msgid "Most Popular"
+msgstr "Plus populaire"
+
+#: searchform.php:15
+msgid "Search"
+msgstr "Rechercher"
+
+#: searchform.php:14
+msgid "search by keyword"
+msgstr "Rechercher par mots-clés"
+
+#: searchform.php:13
+msgid "Search for:"
+msgstr "Recherche pour&nbsp;:"
+
+#: search.php:37
+msgid "Nothing Found For: "
+msgstr "Aucun résultat trouvé pour&nbsp;:"
+
+#: search.php:41
+msgid "Apologies, but no results were found for the requested keyword. Please try another keywords.."
+msgstr "Désolé, aucun résultat n&rsquo;a été trouvé pour votre mot-clé. Merci d&rsquo;essayer avec un autre mot-clé."
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour&nbsp;: %s"
+
+#: loop.php:69
+msgid "Edit this post"
+msgstr "Modifier cet article"
+
+#: includes/theme-options/theme-options.php:455
+msgid "Send Message"
+msgstr "Envoyer le message"
+
+#: loop.php:35 page.php:35 single.php:80
+msgid "Pages:"
+msgstr "Pages :"
+
+#: includes/theme-options/theme-options.php:449
+msgid "Message"
+msgstr "Message"
+
+#: includes/theme-options/theme-options.php:445
+msgid "Subject"
+msgstr "Objet"
+
+#: includes/theme-options/theme-options.php:441
+msgid "Email"
+msgstr "Options de messagerie"
+
+#: includes/theme-options/theme-options.php:437
+msgid "Name"
+msgstr "Nom"
+
+#: includes/theme-options/theme-options.php:416
+msgid "Custom code to insert into Footer"
+msgstr "Code personnalisé à insérer dans le pied de page"
+
+#: includes/theme-options/theme-options.php:394
+msgid "Insert the full URL of your YouTube Channel, For eg. https://www.youtube.com/user/xyz"
+msgstr "Insérez l&rsquo;URL complète de votre chaine YouTube. P. ex. https://www.youtube.com/user/xyz"
+
+#: includes/theme-options/theme-options.php:406
+msgid "Custom code to insert into Header"
+msgstr "Code personnalisé à insérer dans l&rsquo;en-tête"
+
+#: includes/theme-options/theme-options.php:411
+msgid "Write/Paste the codes which you want to insert in Header. For eg. custom styles, scripts, etc."
+msgstr "Écrivez/collez le code à insérer dans l&rsquo;en-tête. P ex. vos styles personnalisés, scripts&hellip;"
+
+#: includes/theme-options/theme-options.php:412
+msgid "This will be inserted before the  &#060;/head&#062; tag in the header of the document."
+msgstr "Ceci sera inséré après la balise &#060;/head&#062; dans l&rsquo;en-tête du document."
+
+#: includes/theme-options/theme-options.php:421
+msgid "Write/Paste the codes which you want to insert in Footer. For eg. custom styles, scripts, etc."
+msgstr "Écrivez/collez le code à insérer dans le pied de page. P.ex. vos styles personnalisés, scripts&nbsp;:"
+
+#: includes/theme-options/theme-options.php:422
+msgid "This will be inserted before the  &#060;/body&#062; tag in the footer of the document."
+msgstr "Ceci sera inséré avant la balise &#060;/body&#062; dans le pied de page du document. "
+
+#: includes/theme-options/theme-options.php:429
+msgid "Any comments/feedback/questions?"
+msgstr "Des commentaires / réactions / questions&nbsp;?"
+
+#: includes/theme-options/theme-options.php:432
+msgid "Get support from Sampression Support Team!"
+msgstr "Contactez l&rsquo;équipe de support de Sampression&nbsp;!"
+
+#: includes/theme-options/theme-options.php:379
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: includes/theme-options/theme-options.php:389
+msgid "YouTube"
+msgstr "YouTube"
+
+#: includes/theme-options/theme-options.php:374
+msgid "Insert the full URL of your Twitter ID, For eg. http://twitter.com/xyz"
+msgstr "Insérez l'URL complète de votre compte Twitter. P. ex. http://twitter.com/xyz"
+
+#: includes/theme-options/theme-options.php:384
+msgid "Insert the full URL of your Google Plus ID, For eg. https://plus.google.com/u/0/123456789/posts"
+msgstr "Insérez l'URL complète de votre ID de Google Plus. P. ex. https://plus.google.com/u/0/123456789/posts"
+
+#: includes/theme-options/theme-options.php:369
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/theme-options/theme-options.php:364
+msgid "Insert the full URL of your Facebook ID, For eg.  http://facebook.com/xyz"
+msgstr "Insérez l'URL complète de votre ID de Facebook. P. ex. http://facebook.com/xyz"
+
+#: includes/theme-options/theme-options.php:211
+#: includes/theme-options/theme-options.php:233
+msgid "Favicon"
+msgstr "Favicon"
+
+#: includes/theme-options/theme-options.php:359
+msgid "Facebook"
+msgstr "Facebook"
+
+#: includes/theme-options/theme-options.php:187
+msgid "Logo Preview"
+msgstr "Aperçu du logo"
+
+#: includes/theme-options/theme-options.php:208
+msgid "Favicon and apple touch icons"
+msgstr "Favicon et icônes Apple Touch"
+
+#: includes/theme-options/theme-options.php:180
+msgid "I dont want to use Logo."
+msgstr "Je ne souhaite pas utiliser de logo."
+
+#: includes/theme-options/theme-options.php:227
+msgid "I dont want to use favicon."
+msgstr "Je ne souhaite pas utiliser de Favicon."
+
+#: includes/theme-options/theme-options.php:235
+msgid "File dimension should be 16x16."
+msgstr "La taille de l&rsquo;image doit être de 16x16 px."
+
+#: includes/theme-options/theme-options.php:240
+msgid "Apple Touch Icon (57x57)"
+msgstr "Icône Apple Touch (57x57 px)"
+
+#: includes/theme-options/theme-options.php:256
+#: includes/theme-options/theme-options.php:284
+#: includes/theme-options/theme-options.php:312
+#: includes/theme-options/theme-options.php:340
+msgid "I dont want to use apple touch icon."
+msgstr "Je ne souhaite pas utiliser d&rsquo;icône Apple touch."
+
+#: includes/theme-options/theme-options.php:268
+msgid "Apple Touch Icon for first and second generation iPad (72x72)"
+msgstr "Icône Apple Touch pour les Ipad de première et seconde génération (72x72 px)"
+
+#: includes/theme-options/theme-options.php:296
+msgid "Apple Touch Icon for high-resolution iPad and iPhone Retina displays (114x114)"
+msgstr "Icône Apple Touch pour les iPad haute résolution et les iPhone Retina (114x114 px)"
+
+#: includes/theme-options/theme-options.php:324
+msgid "Apple Touch Icon for high-resolution iPad and iPhone Retina displays (144x144)"
+msgstr "Icône Apple Touch pour les iPad haute résolution et les iPhone Retina (144x144 px) "
+
+#: includes/theme-options/theme-options.php:177
+#: includes/theme-options/theme-options.php:224
+#: includes/theme-options/theme-options.php:253
+#: includes/theme-options/theme-options.php:281
+#: includes/theme-options/theme-options.php:309
+#: includes/theme-options/theme-options.php:337
+msgid "no"
+msgstr "Non"
+
+#: includes/theme-options/theme-options.php:164
+msgid "Browse or enter logo URL"
+msgstr "Parcourir ou saisir l&rsquo;URL du logo"
+
+#: includes/theme-options/theme-options.php:152
+msgid "Get Support"
+msgstr "Accéder au support"
+
+#: includes/theme-options/theme-options.php:160
+msgid "Site Logo"
+msgstr "Logo du site"
+
+#: includes/theme-options/theme-options.php:151
+msgid "Advanced"
+msgstr "Avancé"
+
+#: includes/theme-options/theme-options.php:62
+msgid "Sampression Lite Options"
+msgstr "Options de Sampression Lite"
+
+#: includes/theme-options/theme-options.php:149
+msgid "Logo &amp; Icons"
+msgstr "Logo &amp; Icônes"
+
+#: includes/theme-options/theme-options.php:150
+msgid "Social Media"
+msgstr "Réseaux Sociaux"
+
+#: includes/theme-options/theme-options.php:24
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: includes/functions.php:574 loop.php:58
+msgid "<span class=\"ico\">Categories</span><div class=\"overflow-hidden cat-listing\">%s</div>"
+msgstr "<span class=\"ico\">Catégories</span><div class=\"overflow-hidden cat-listing\">%s</div>"
+
+#: includes/theme-options/theme-options.php:24
+msgid "Sampression Theme Option"
+msgstr "Options du Thème Sampression"
+
+#: includes/functions.php:432
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#. translators: 1: comment author, 2: date and time
+#: includes/functions.php:409
+msgid "%1$s on %2$s"
+msgstr "%1$s sur %2$s"
+
+#: includes/functions.php:424
+msgid "Reply <span>&darr;</span>"
+msgstr "Répondre <span>&darr;</span>"
+
+#. translators: 1: date, 2: time
+#: includes/functions.php:415
+msgid "<span class=\"date-details\">%1$s</span>"
+msgstr "<span class=\"date-details\">%1$s</span>"
+
+#: includes/functions.php:217
+msgid "Read more &#8250;"
+msgstr "Lire la suite &#8250;"
+
+#: includes/functions.php:381
+msgid "Pingback:"
+msgstr "Ping&nbsp;:"
+
+#: includes/functions.php:329
+msgid "Inner Sidebar"
+msgstr "Colonne latérale intérieure"
+
+#: includes/functions.php:299
+msgid "Bottom Widget 1"
+msgstr "Widget du bas 1"
+
+#: includes/functions.php:309
+msgid "Bottom Widget 2"
+msgstr "Widget du bas 2"
+
+#: includes/functions.php:310
+msgid "Appears on bottom of the Page - Second Widget - Please insert only one widget for better appearance."
+msgstr "S'affiche en bas de page - Deuxième Widget - Pour un meilleur rendu, insérer un seul Widget. "
+
+#: includes/functions.php:300
+msgid "Appears on bottom of the Page - First Widget - Please insert only one widget for better appearance."
+msgstr "S'affiche en bas de page - Premier Widget - Pour un meilleur rendu, insérer un seul Widget."
+
+#: includes/functions.php:319
+msgid "Bottom Widget 3"
+msgstr "Widget du bas 3"
+
+#: includes/functions.php:320
+msgid "Appears on bottom of the Page - Third Widget - Please insert only one widget for better appearance."
+msgstr "S'affiche en bas de page - Troisième Widget - Pour un meilleur rendu, insérer un seul Widget. "
+
+#: includes/functions.php:330
+msgid "Appears on right of the Interior Pages - Can use as much widgets as you wish."
+msgstr "S'affiche à droite des pages intérieures - Peut recevoir autant de Widgets que souhaité."
+
+#: includes/functions.php:181
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Articles plus récents <span class=\"meta-nav\">&rarr;</span>"
+
+#: includes/functions.php:180
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Articles plus anciens"
+
+#: includes/functions.php:117
+msgid "A theme by"
+msgstr "Un thème créé par"
+
+#: includes/functions.php:117
+msgid "http://www.sampression.com/"
+msgstr "http://www.sampression.com/"
+
+#. #-#-#-#-#  sampression-lite.pot (Sampression Lite 1.5.3)  #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/functions.php:117
+msgid "Sampression"
+msgstr "Sampression"
+
+#: includes/functions.php:113
+msgid "WordPress"
+msgstr "WordPress"
+
+#: includes/functions.php:98
+msgid "Top Menu"
+msgstr "Menu Top"
+
+#: includes/functions.php:113
+msgid "Proudly powered by"
+msgstr "Fièrement propulsé par "
+
+#: includes/functions.php:113
+msgid "http://wordpress.org/"
+msgstr "http://www.wordpress-fr.net/"
+
+#: image.php:117
+msgid "<span class=\"meta-nav\">&larr;</span> Previous Image"
+msgstr "<span class=\"meta-nav\">&larr;</span> Image précédente"
+
+#: image.php:118
+msgid "Next Image <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Image suivante <span class=\"meta-nav\">&rarr;</span>"
+
+#: image.php:50 includes/functions.php:567 loop.php:20 single.php:43
+msgid "1"
+msgstr "1"
+
+#: image.php:50 includes/functions.php:567 loop.php:20 single.php:43
+msgid "%"
+msgstr "%"
+
+#: image.php:60 includes/functions.php:381 includes/functions.php:420
+#: page.php:39 single.php:70
+msgid "Edit"
+msgstr "Modifier"
+
+#: image.php:50 includes/functions.php:567 loop.php:20 single.php:43
+msgid "0"
+msgstr "0"
+
+#: image.php:45
+msgid "<span class=\"ico\">Categories</span> %s"
+msgstr "<span class=\"ico\">Catégories</span> %s"
+
+#: image.php:39 includes/functions.php:558 loop.php:50 single.php:56
+msgid "View all posts by %s"
+msgstr "Afficher tous les articles par %s"
+
+#: image.php:18
+msgid "<span class=\"meta-nav\">&larr;</span> Back to Gallery"
+msgstr "<span class=\"meta-nav\">&larr;</span> Retour à la galerie"
+
+#: image.php:31 includes/functions.php:550 loop.php:41
+msgid "%3$s <time class=\"col\" datetime=\"2011-09-28\"><span class=\"ico\">Published on</span>%2$s</time> "
+msgstr "%3$s <time class=\"col\" datetime=\"2011-09-28\"><span class=\"ico\">Publié le </span>%2$s</time> "
+
+#: header.php:129 header.php:152
+msgid "Show All"
+msgstr "Tout afficher"
+
+#: image.php:17 single.php:17
+msgid "Post navigation"
+msgstr "Navigation de l'article"
+
+#: footer.php:22
+msgid "Goto Top"
+msgstr "Vers le haut"
+
+#: header.php:126
+msgid "Filter By:"
+msgstr "Filtrer par&nbsp;:"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments &rarr;"
+msgstr "Commentaires plus récents &rarr;"
+
+#: comments.php:43 comments.php:63
+msgid "&larr; Older Comments"
+msgstr "&larr; Commentaires Pr&eacute;c&eacute;dents"
+
+#: comments.php:42 comments.php:62
+msgid "Comment navigation"
+msgstr "Navigation des commentaires"
+
+#: comments.php:35
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une réflexion sur &ldquo;&nbsp;%2$s&nbsp;&rdquo;"
+msgstr[1] "%1$s réflexions sur &ldquo;&nbsp;%2$s&nbsp;&rdquo;"
+
+#: category.php:40 sidebar-right.php:49 tag.php:38
+msgid "Archive"
+msgstr "Archive"
+
+#: comments.php:19
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Cet article est protégé par un mot de passe. Veuillez le saisir pour pouvoir lire ses commentaires."
+
+#: category.php:19
+msgid "Category Archives: %s"
+msgstr "Archives pour la catégorie %s"
+
+#: archive.php:75 author.php:82 category.php:68 index.php:67 tag.php:66
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Toutes nos excuses, mais votre requête pour cette archive n&rsquo;a donné aucun résultat. Peut-être aurez-vous plus de chance en lançant une recherche..."
+
+#: author.php:29
+msgid "Author Archives: "
+msgstr "Archives de l'auteur: "
+
+#: archive.php:71 author.php:78 category.php:64 index.php:63 tag.php:62
+msgid "Nothing Found"
+msgstr "Aucun Résultat"
+
+#: archive.php:48 author.php:55 category.php:33 sidebar-right.php:39 tag.php:31
+msgid "Categories"
+msgstr "Catégories"
+
+#: archive.php:39 author.php:46
+msgid "Archives"
+msgstr "Archives"
+
+#: archive.php:31
+msgid "Blog Archives"
+msgstr "Archives du blog"
+
+#: archive.php:29
+msgid "Yearly Archives: %s"
+msgstr "Archives de l'année %s"
+
+#: archive.php:27
+msgid "Monthly Archives: %s"
+msgstr "Archives mensuelles&nbsp;: %s"
+
+#: archive.php:25
+msgid "Daily Archives: %s"
+msgstr "Archives du %s"
+
+#: 404.php:19
+msgid "home"
+msgstr "Accueil"
+
+#: 404.php:19
+msgid "Better to go"
+msgstr "Essayez plutôt"
+
+#: 404.php:18
+msgid "Sorry but the page you looking for cannot be found."
+msgstr "Désolé ! La page que vous cherchez n'existe pas."
+
+#: 404.php:17
+msgid "Oops! Page not found."
+msgstr "Désolé ! Cette page n&rsquo;existe pas."
+
+#. Author URI of the plugin/theme
+msgid "http://www.sampression.com"
+msgstr "http://www.sampression.com"
+
+#. Theme URI of the plugin/theme
+msgid "http://sampression.com/themes/sampression-lite/"
+msgstr "http://sampression.com/themes/sampression-lite/"
