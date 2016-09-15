@@ -14,7 +14,7 @@ if ( !defined('ABSPATH')) exit;
 <!-- #content-wrapper -->
 
    <?php get_sidebar(); ?>
-
+    test
 	<footer id="footer">
 		<div class="container">
 			<div class="columns twelve">
