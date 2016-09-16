@@ -12,9 +12,7 @@ if ( !defined('ABSPATH')) exit;
  </div>
 </div>
 <!-- #content-wrapper -->
-
    <?php get_sidebar(); ?>
-    test
 	<footer id="footer">
 		<div class="container">
 			<div class="columns twelve">
