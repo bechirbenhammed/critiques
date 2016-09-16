@@ -66,7 +66,7 @@ define('NONCE_SALT',       'cHkxZ9=I_Tl A%[YD{s`7Zc 8Bb8J.?vZX4#-em8=*ySm:(Txp0A
  * si vous leur donnez chacune un préfixe unique.
  * N’utilisez que des chiffres, des lettres non-accentuées, et des caractères soulignés !
  */
-$table_prefix  = 'wp_';
+$table_prefix  = 'tn_';
 
 /**
  * Pour les développeurs : le mode déboguage de WordPress.
