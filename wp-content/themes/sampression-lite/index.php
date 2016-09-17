@@ -76,7 +76,7 @@ echo do_shortcode('[vc_row dt_bg_repeat="repeat-y" bg_color="#ffffff" dt_text_sc
 					
 				</div>	
 				<div style="clear:both; width:100%; height:50px"></div>
-				<div class="wpb_column vc_column_container vc_col-sm-12"><center><a href="http://localhost/wordpress/index.php/nouveaute-des-ministres/" style="text-decoration : underline; color: #ff6600;"><h2 class="post-title"><i><?php echo(utf8_encode("Voir plus d'actualités sur les activités gouvernementales"));?>  >> </i></h2></a></center></div>	
+				<div class="wpb_column vc_column_container vc_col-sm-12"><center><a href="http://www.tunisie-critiques.com/index.php/nouveaute-des-ministres/" style="text-decoration : underline; color: #ff6600;"><h2 class="post-title"><i><?php echo(utf8_encode("Voir plus d'actualités sur les activités gouvernementales"));?>  >> </i></h2></a></center></div>	
 				<div style="clear:both; width:100%; height:50px"></div>
 			</div>
 		</div>

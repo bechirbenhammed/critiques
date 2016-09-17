@@ -69,14 +69,14 @@ if ( !defined('ABSPATH')) exit;
 		// Otherwise list the Pages
 			 ?>
 			<ul class="top-menu clearfix">
-				<li  class="page_item page-item-82"><a href="http://localhost/wordpress/index.php"><button <?php if(!strpos($_SERVER['REQUEST_URI'],'2016') and (!strpos($_SERVER['REQUEST_URI'],'forum')) and (!strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) ) {?> style="background-color:#63857F" <?php } ?> >Accueil</button></a></li>
+				<li  class="page_item page-item-82"><a href="http://www.tunisie-critiques.com/index.php"><button <?php if(!strpos($_SERVER['REQUEST_URI'],'2016') and (!strpos($_SERVER['REQUEST_URI'],'forum')) and (!strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) ) {?> style="background-color:#63857F" <?php } ?> >Accueil</button></a></li>
 				<?php if(!strpos($_SERVER['REQUEST_URI'],'2016') and (!strpos($_SERVER['REQUEST_URI'],'forum')) and (!strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) ) {?>
 					<li id ="stat" class="page_item page-item-82"  onclick="scrollWin('content')"><a><button>Rating Ministres</button></a></li> 
 				<?php } else {  ?>
-					<li  class="page_item page-item-82"><a href="http://localhost/wordpress/index.php/2016/08/28/bonjour-tout-le-monde/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'2016')) {?> style="background-color:#63857F" <?php } ?>>Rating Ministres</button></a></li> 
+					<li  class="page_item page-item-82"><a href="http://www.tunisie-critiques.com/index.php/2016/08/28/bonjour-tout-le-monde/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'2016')) {?> style="background-color:#63857F" <?php } ?>>Rating Ministres</button></a></li> 
 				<?php } ?>
-				<li class="page_item page-item-82"><a href="http://localhost/wordpress/index.php/nouveaute-des-ministres/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) {?> style="background-color:#63857F" <?php } ?>><?php echo(utf8_encode('Gouvernement News')); ?></button></a></li>
-				<li class="page_item page-item-82"><a href="http://localhost/wordpress/index.php/forums/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'forum')) {?> style="background-color:#63857F" <?php } ?>>Forums</button></a></li>
+				<li class="page_item page-item-82"><a href="http://www.tunisie-critiques.com/index.php/nouveaute-des-ministres/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) {?> style="background-color:#63857F" <?php } ?>><?php echo(utf8_encode('Gouvernement News')); ?></button></a></li>
+				<li class="page_item page-item-82"><a href="http://www.tunisie-critiques.com/index.php/forums/"><button <?php if(strpos($_SERVER['REQUEST_URI'],'forum')) {?> style="background-color:#63857F" <?php } ?>>Forums</button></a></li>
 			</ul>
 			<script type="text/javascript">
 				  function scrollWin(id) {

@@ -74,7 +74,7 @@ get_header(); ?>
             </div>
 			<center> <h2 class="post-title">Noter le travail de ce Ministre : </h2>	<strong><?php if(function_exists('the_ratings')) { the_ratings(); } ?></strong></center>
 			<center>
-						<img id="img-balance" width = "100" src ="http://localhost/wordpress/wp-content/uploads/2016/09/goutte-6.jpg" style="padding-top: 1%;"/>
+						<img id="img-balance" width = "100" src ="http://www.tunisie-critiques.com/wp-content/uploads/2016/09/goutte-6.jpg" style="padding-top: 1%;"/>
 			</center>
 			<br/><br/>
 		   <?php comments_template( '', true ); ?>

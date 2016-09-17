@@ -27,7 +27,7 @@ get_header(); ?>
     </div>
     <!-- .featured-img -->
     <?php } else { ?>
-		<?php if(!strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) {?><center><img src ="http://localhost/wordpress/wp-content/uploads/2016/09/forum.jpg"/> </center>
+		<?php if(!strpos($_SERVER['REQUEST_URI'],'nouveaute-des-ministres')) {?><center><img src ="http://www.tunisie-critiques.com/wp-content/uploads/2016/09/forum.jpg"/> </center>
 		<?php } ?>
 	<?php } ?>
     <header class="post-header">
