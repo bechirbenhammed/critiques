@@ -83,6 +83,7 @@ $table_prefix  = 'tn_';
  * @link https://codex.wordpress.org/Debugging_in_WordPress
  */
 define('WP_DEBUG', false);
+define( 'WP_POST_REVISIONS', false );
 
 /* C’est tout, ne touchez pas à ce qui suit ! */
 
