@@ -145,7 +145,7 @@ echo do_shortcode('[vc_row dt_bg_repeat="repeat-y" bg_color="#ffffff" dt_text_sc
 							<h3><i>Proposer vos solutions</i></h3>
 							<h3><i>Publier vos avis librement</i></h3>
 							<h3><i>Suiver le travail de chaque ministre</i></h3>
-							<h3><i>C'est <?php echo(utf8_encode('à'));?> vous de changer le TUNISIE</i></h3>
+							<h3><i>C'est <?php echo(utf8_encode('à'));?> vous de changer la TUNISIE</i></h3>
 						</center>
 					</div>
 				</div>
