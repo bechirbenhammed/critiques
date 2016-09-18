@@ -33,21 +33,9 @@ echo do_shortcode('[vc_row dt_bg_repeat="repeat-y" bg_color="#ffffff" dt_text_sc
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/Presidence.tn/ social_plugin=false posts=3] ');
 						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/gims.pm.gov.tn/ social_plugin=false posts=2] ');
-						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/MDEAF.GOV.TN/ social_plugin=false posts=2]  ');
-						?>
 						<div style="clear:both; width:100%; height:30px"></div>	
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/BenGharbia.Mehdi/ social_plugin=false posts=2] ');
-						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/industrie.tn/ social_plugin=false posts=2] ');
 						?>
 					</div>
 					<div class="wpb_column vc_column_container vc_col-sm-1">	
@@ -59,18 +47,6 @@ echo do_shortcode('[vc_row dt_bg_repeat="repeat-y" bg_color="#ffffff" dt_text_sc
 						<div style="clear:both; width:100%; height:30px"></div>
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/Tunisie.arp/ social_plugin=false posts=3] ');
-						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/samir.taieb.officielle/ social_plugin=false posts=2] ');
-						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/KhemaiesJhinaoui/ social_plugin=false posts=2] ');
-						?>
-						<div style="clear:both; width:100%; height:30px"></div>
-						<?php 
-							echo do_shortcode('[facebook https://www.facebook.com/ministere.interieur.tunisie/ social_plugin=false posts=2] ');
 						?>
 					</div>
 					
