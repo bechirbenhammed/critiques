@@ -87,7 +87,18 @@ get_header(); ?>
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/MinistereTCEN/ social_plugin=false posts=2] ');
 						?>
-						
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/MinEnergie/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/Ministere.Du.Transport/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/gims.pm.gov.tn/ social_plugin=false posts=2] ');
+						?>
 					</div>
 					<div class="column one-third">	
 						<?php 
@@ -113,6 +124,18 @@ get_header(); ?>
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/BenGharbia.Mehdi/ social_plugin=false posts=2] ');
 						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/M.AFFAIRES.CULTURELLES/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/femme.gov.tn/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/MinistryOfInvestmentAndInternationalCooperation/  social_plugin=false posts=2] ');
+						?>
 					</div>
 					<div class="column one-third">
 						<?php 
@@ -137,6 +160,18 @@ get_header(); ?>
 						<div style="clear:both; width:100%; height:30px"></div>
 						<?php 
 							echo do_shortcode('[facebook https://www.facebook.com/KhemaiesJhinaoui/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/MinEquip/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/MFTunisie/ social_plugin=false posts=2] ');
+						?>
+						<div style="clear:both; width:100%; height:30px"></div>
+						<?php 
+							echo do_shortcode('[facebook https://www.facebook.com/infos.social.tn/ social_plugin=false posts=2] ');
 						?>
 					</div>
 				</div>	
